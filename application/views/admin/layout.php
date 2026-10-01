@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>MolScope Admin</title>
+<title>ElectronLab Admin</title>
 
 <link rel="stylesheet" href="<?php echo base_url('assets/admin/css/adminlte.min.css'); ?>">
 <!-- <link rel="stylesheet" href="<?php echo base_url('assets/admin/css/all.min.css'); ?>"> -->

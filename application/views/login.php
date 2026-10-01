@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Login - MolScope</title>
+<title>Login - ElectronLab</title>
 
 <link href="<?php echo base_url('assets/css/bootstrap-4.6.2.min.css'); ?>" rel="stylesheet">
 <script src="<?php echo base_url('assets/js/jquery-3.6.0.min.js'); ?>"></script>
@@ -75,7 +75,7 @@ body {
 
 <div class="login-card">
 
-   <h4 class="text-center mb-4">🚀 Login MolScope</h4>
+   <h4 class="text-center mb-4">🚀 Login ElectronLab</h4>
 
    <div class="alert alert-danger" id="errorMsg"></div>
    <div class="alert alert-success" id="successMsg"></div>

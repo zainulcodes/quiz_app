@@ -14,4 +14,10 @@ class Materi extends CI_Controller {
         $this->load->view('materi/materi');
         $this->load->view('includes/footer');
     }
+
+    public function simulator_orbital() {
+        $this->load->view('includes/header');
+        $this->load->view('materi/simulator_orbital');
+        $this->load->view('includes/footer');
+    }
 }

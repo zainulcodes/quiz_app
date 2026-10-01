@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>MolScope</title>
+	<title>ElectronLab</title>
 
 	<link href="<?php echo base_url('assets/css/bootstrap.min.css'); ?>" rel="stylesheet">
 	<link rel="stylesheet" href="<?php echo base_url('assets/css/styles.css'); ?>">
@@ -17,7 +17,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark custom-navbar fixed-top">
 	<div class="container">
 
-		<a href="<?php echo base_url(); ?>" class="navbar-brand">MolScope</a>
+		<a href="<?php echo base_url(); ?>" class="navbar-brand">ElectronLab</a>
 
 		<button class="navbar-toggler" id="menuToggle">☰</button>
 
@@ -26,6 +26,7 @@
 
 				<li><a href="<?php echo base_url(); ?>" class="nav-link active-menu">Home</a></li>
 				<li><a href="<?php echo base_url('materi'); ?>" class="nav-link">Materi</a></li>
+				<li><a href="<?php echo base_url('materi/simulator_orbital'); ?>" class="nav-link">Simulator</a></li>
 				<li><a href="<?php echo base_url('quiz/start'); ?>" class="nav-link">Quiz</a></li>
 				<li><a href="<?php echo base_url('soal'); ?>" class="nav-link">Soal</a></li>
 				<li><a href="<?php echo base_url('quiz/quiz_ranking'); ?>" class="nav-link">Ranking Quiz</a></li>

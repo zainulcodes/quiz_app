@@ -1,6 +1,6 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
    <a href="#" class="brand-link text-center">
-   <span class="brand-text font-weight-light">Molscope Admin</span>
+   <span class="brand-text font-weight-light">ElectronLab Admin</span>
    </a>
    <div class="sidebar">
       <nav>
